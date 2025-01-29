@@ -1,0 +1,4 @@
+DirectoryIndex index.php
+
+# Redirect from index.html to index.php
+RedirectMatch 301 ^/index\.html$ /index.php
